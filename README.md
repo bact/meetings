@@ -80,12 +80,12 @@ Check current US Eastern Time at <https://time.gov/>.*
 * Meeting minutes and agendas: in [this doc](https://docs.google.com/document/d/1aGVG0-wcCBuiDpPk9SPijPTFk8KCgDIalBh3EDKw25w/edit)
 
 ### Serialization
-* Time and cadence: weekly on Thursdays at 11:00
+* Time and cadence: weekly on Thursdays at 12:00
 * Where: https://meet.jit.si/SPDXSerializationMeeting
 * Description: Regular meeting to discuss the serialisation formats for SPDX, enumerating the use cases for serialisation and determining stakeholder preferences.
 
 ### Threats and Controls
-* Time and cadence: weekly on Mondays at 01:00 pm - 02:00 pm EDT
+* Time and cadence: weekly on Mondays at 13:00 - 14:00
 * Where: https://meet.jit.si/SPDXThreatsAndControls
 * Description: Regular meeting to discuss and plan addition of threats, threat modeling and controls to SPDX. 
 * Meeting minutes and agendas: [threats/README.md](threats/README.md)
